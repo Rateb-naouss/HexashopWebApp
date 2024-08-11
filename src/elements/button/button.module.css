@@ -1,0 +1,9 @@
+.logout{
+    padding: 4px;
+    cursor: pointer;
+    background-color: var(--color-primary);
+    border: none;
+    border-radius: var(--size-border-radius) ;
+    width: max-content;
+    color: aliceblue;
+  }
