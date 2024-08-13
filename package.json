@@ -4,15 +4,15 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d .next",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d .next",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "homepage": "https://rateb-naouss.github.io/HexashopWebApp",
-    "next": "14.2.4",
+    "nex": "^2.0.22",
+    "next": "^14.2.4",
     "react": "^18",
     "react-dom": "^18"
   },
