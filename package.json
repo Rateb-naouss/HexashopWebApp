@@ -11,6 +11,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "homepage": "https://rateb-naouss.github.io/HexashopWebApp",
     "nex": "^2.0.22",
     "next": "^14.2.4",
     "react": "^18",
